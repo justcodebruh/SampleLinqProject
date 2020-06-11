@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y88HF8dXc/Vum6Sq9t6QllrV2C/vof3C24UOfUq+MkZmmcquyDkN635+6plvIPFlfG3WWQGhmIt2A0yvrsjbTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alxje\\dev\\SampleLinqProject\\SampleLinqProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alxje\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alxje\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alxje\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

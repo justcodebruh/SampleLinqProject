@@ -1,0 +1,13 @@
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.exe
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.deps.json
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.runtimeconfig.json
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.runtimeconfig.dev.json
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.dll
+C:\Users\alxje\dev\SampleLinqProject\bin\Debug\netcoreapp3.1\SampleLinqProject.pdb
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.csprojAssemblyReference.cache
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.AssemblyInfoInputs.cache
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.AssemblyInfo.cs
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.csproj.CoreCompileInputs.cache
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.dll
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.pdb
+C:\Users\alxje\dev\SampleLinqProject\obj\Debug\netcoreapp3.1\SampleLinqProject.genruntimeconfig.cache
